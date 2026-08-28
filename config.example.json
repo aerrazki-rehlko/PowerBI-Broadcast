@@ -1,0 +1,14 @@
+{
+  "powerbi_url": "https://app.powerbi.com/groups/REPLACE_ME/reports/REPLACE_ME",
+  "capture_interval_minutes": 10,
+  "render_wait_seconds": 15,
+  "viewport_width": 1920,
+  "viewport_height": 1080,
+  "headless": false,
+  "bind_host": "0.0.0.0",
+  "port": 8000,
+  "allowed_networks": [
+    "192.168.1.0/24"
+  ],
+  "token": "Ss8OQ8jCArgVF58nXq9-fuH622VLJTtmJ_4BO94YzOJLzv3PKgjFUbLhf9ek-FLf"
+}
